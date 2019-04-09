@@ -1,0 +1,13 @@
+# Visual Studio
+
+**.vcxproj
+**.filters
+**.sln
+**.user
+**.txt
+
+
+**Debug/
+**Release/
+**x64/
+**.vs/
